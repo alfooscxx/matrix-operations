@@ -1,2 +1,2 @@
 # matrix-operations
-implementation of basic matrix operations
+implementation of the basic matrix operations
